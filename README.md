@@ -1,8 +1,8 @@
-# Spring Boot Azure Service Bus
+# Handle Redeem Reward Points with Pessimistic Locking in Spring Boot application
 
-## Azure Service Bus
+## Pessimistic Locking Categorize
 
-### Topic
+### SELECT FOR UDPATE
 
 
-### Queue
+### 
