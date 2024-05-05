@@ -1,7 +1,11 @@
-# Handle Redeem Reward Points with Database Locking in Spring Boot application
+# Face Guard System Design
 
-## Pessimistic Locking Categorize
+## Problem Statement
 
-### SELECT FOR UDPATE
+## Development
 
-## Optimistic Locking Categorize
+### Set Up Environment
+
+### Face Guard Service
+
+### Face Detection Rules
